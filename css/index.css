@@ -1,0 +1,39 @@
+#top-bar{
+    background-color:black;
+    color:white;
+}
+
+#myModal{
+    left:20%;
+    top:34%;
+}
+
+#joinModal{
+    left:20%;
+    top:34%;
+}
+#reportModal{
+    left:20%;
+    top:34%;
+}
+@media (max-width: 979px){
+    #myModal{
+        top:10%;
+        left:0%;
+    }
+    #joinModal{
+        top:10%;
+        left:0%;
+    }
+    #reportModal{
+        top:10%;
+        left:0%;
+    }
+    .modal-scrollable{
+        left:0px;
+    }
+    .modal {
+        
+    }
+}
+
